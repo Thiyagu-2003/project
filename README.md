@@ -39,7 +39,7 @@ Follow these steps to set up and run the project locally.
 ### 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/Thiyagu-2003/Insta-clone-using-Django.git
+git clone https://github.com/Thiyagu-2003/project
 cd Insta-clone-using-Django
 ```
 
