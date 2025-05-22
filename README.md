@@ -1,1 +1,0 @@
-Platzigram_2018_Django

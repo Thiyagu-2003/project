@@ -1,0 +1,8 @@
+#pip install Django Pillow
+
+Django                3.2
+django-celery-beat    2.0.0
+django-timezone-field 4.2.3
+pillow                11.2.1
+sqlparse              0.3.1
+pytz                  2025.2
